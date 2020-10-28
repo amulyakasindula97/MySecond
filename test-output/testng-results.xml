@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="781" started-at="2020-10-04T19:00:54 IST" finished-at="2020-10-04T19:00:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="781" started-at="2020-10-04T19:00:54 IST" finished-at="2020-10-04T19:00:55 IST">
+      <class name="com.seleniumAutomation.automate.PriorityOfTestCases">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="beforeSuite" is-config="true" duration-ms="15" started-at="2020-10-04T19:00:54 IST" finished-at="2020-10-04T19:00:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-10-04T19:00:54 IST" finished-at="2020-10-04T19:00:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-10-04T19:00:54 IST" finished-at="2020-10-04T19:00:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-04T19:00:54 IST" finished-at="2020-10-04T19:00:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="aMethod()[pri:2, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="aMethod" duration-ms="7" started-at="2020-10-04T19:00:54 IST" finished-at="2020-10-04T19:00:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-10-04T19:00:54 IST" finished-at="2020-10-04T19:00:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-04T19:00:54 IST" finished-at="2020-10-04T19:00:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testsPriority(java.lang.String)[pri:3, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="testsPriority" duration-ms="1" started-at="2020-10-04T19:00:54 IST" data-provider="Name" finished-at="2020-10-04T19:00:54 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AMULYA KASINDULA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsPriority -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-04T19:00:54 IST" finished-at="2020-10-04T19:00:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-04T19:00:55 IST" finished-at="2020-10-04T19:00:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="kMethod()[pri:1, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="kMethod" duration-ms="4" started-at="2020-10-04T19:00:55 IST" depends-on-methods="com.seleniumAutomation.automate.PriorityOfTestCases.testsPriority" finished-at="2020-10-04T19:00:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="afterMethod" is-config="true" duration-ms="2" started-at="2020-10-04T19:00:55 IST" finished-at="2020-10-04T19:00:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-10-04T19:00:55 IST" finished-at="2020-10-04T19:00:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-10-04T19:00:55 IST" finished-at="2020-10-04T19:00:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.seleniumAutomation.automate.PriorityOfTestCases@1e965684]" name="afterSuite" is-config="true" duration-ms="1" started-at="2020-10-04T19:00:55 IST" finished-at="2020-10-04T19:00:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.seleniumAutomation.automate.PriorityOfTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
